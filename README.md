@@ -62,17 +62,17 @@ Below is an overview of leading turnkey enterprise system connector platforms, s
 
 Self-hosted, developer-friendly open-source connector frameworks and integration engines. Ranked in descending order by GitHub stargazers.
 
-| 📦 Project | ⭐ Stars | 💻 Language / Tech Stack | 📜 License | 🎯 Primary Architectural Focus |
+| 📦 Project | ⭐ GitHub_Stars | 💻 Language / Tech Stack | 📜 License | 🎯 Primary Architectural Focus |
 | :--- | :--- | :--- | :--- | :--- |
-| **[n8n](https://github.com/n8n-io/n8n)** | [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | TypeScript / Node.js | Fair-code (Sustainable Use License) | Visual workflow automation with 400+ turnkey SaaS and enterprise nodes |
-| **[Activepieces](https://github.com/activepieces/activepieces)** | [![GitHub stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers) | TypeScript / Node.js | MIT | Extensible open-source no-code connector platform & business workflow engine |
-| **[Airbyte](https://github.com/airbytehq/airbyte)** | [![GitHub stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=social&color=white)](https://github.com/airbytehq/airbyte/stargazers) | Java / Python | MIT / Elastic-2.0 | ELT data replication engine with 350+ pre-built connectors and custom CDK |
-| **[CloudQuery](https://github.com/cloudquery/cloudquery)** | [![GitHub stars](https://img.shields.io/github/stars/cloudquery/cloudquery?style=social&color=white)](https://github.com/cloudquery/cloudquery/stargazers) | Go | MPL-2.0 | High-performance open-source ELT framework extracting enterprise SaaS/cloud configs |
-| **[Apache Camel](https://github.com/apache/camel)** | [![GitHub stars](https://img.shields.io/github/stars/apache/camel?style=social&color=white)](https://github.com/apache/camel/stargazers) | Java | Apache-2.0 | Enterprise Integration Patterns (EIP) framework with 350+ production connectors |
-| **[dlt (data load tool)](https://github.com/dlt-hub/dlt)** | [![GitHub stars](https://img.shields.io/github/stars/dlt-hub/dlt?style=social&color=white)](https://github.com/dlt-hub/dlt/stargazers) | Python | Apache-2.0 | Lightweight Python library for loading unstructured and REST API data into warehouses |
-| **[Ballerina](https://github.com/ballerina-platform/ballerina-lang)** | [![GitHub stars](https://img.shields.io/github/stars/ballerina-platform/ballerina-lang?style=social&color=white)](https://github.com/ballerina-platform/ballerina-lang/stargazers) | Ballerina / Java | Apache-2.0 | Cloud-native programming language purpose-built for enterprise integration & APIs |
-| **[Meltano](https://github.com/meltano/meltano)** | [![GitHub stars](https://img.shields.io/github/stars/meltano/meltano?style=social&color=white)](https://github.com/meltano/meltano/stargazers) | Python | Apache-2.0 | CLI-driven ELT framework powered by the Singer tap & target connector ecosystem |
-| **[Singer](https://github.com/singer-io/getting-started)** | [![GitHub stars](https://img.shields.io/github/stars/singer-io/getting-started)](https://github.com/singer-io/getting-started/stargazers) | Python | Apache-2.0 | Open-source standard for composable ETL/ELT data extraction taps and targets |
+| **[n8n](https://github.com/n8n-io/n8n)** | [![GitHub_Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | TypeScript / Node.js | Fair-code (Sustainable Use License) | Visual workflow automation with 400+ turnkey SaaS and enterprise nodes |
+| **[Activepieces](https://github.com/activepieces/activepieces)** | [![GitHub_Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers) | TypeScript / Node.js | MIT | Extensible open-source no-code connector platform & business workflow engine |
+| **[Airbyte](https://github.com/airbytehq/airbyte)** | [![GitHub_Stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=social&color=white)](https://github.com/airbytehq/airbyte/stargazers) | Java / Python | MIT / Elastic-2.0 | ELT data replication engine with 350+ pre-built connectors and custom CDK |
+| **[CloudQuery](https://github.com/cloudquery/cloudquery)** | [![GitHub_Stars](https://img.shields.io/github/stars/cloudquery/cloudquery?style=social&color=white)](https://github.com/cloudquery/cloudquery/stargazers) | Go | MPL-2.0 | High-performance open-source ELT framework extracting enterprise SaaS/cloud configs |
+| **[Apache Camel](https://github.com/apache/camel)** | [![GitHub_Stars](https://img.shields.io/github/stars/apache/camel?style=social&color=white)](https://github.com/apache/camel/stargazers) | Java | Apache-2.0 | Enterprise Integration Patterns (EIP) framework with 350+ production connectors |
+| **[dlt (data load tool)](https://github.com/dlt-hub/dlt)** | [![GitHub_Stars](https://img.shields.io/github/stars/dlt-hub/dlt?style=social&color=white)](https://github.com/dlt-hub/dlt/stargazers) | Python | Apache-2.0 | Lightweight Python library for loading unstructured and REST API data into warehouses |
+| **[Ballerina](https://github.com/ballerina-platform/ballerina-lang)** | [![GitHub_Stars](https://img.shields.io/github/stars/ballerina-platform/ballerina-lang?style=social&color=white)](https://github.com/ballerina-platform/ballerina-lang/stargazers) | Ballerina / Java | Apache-2.0 | Cloud-native programming language purpose-built for enterprise integration & APIs |
+| **[Meltano](https://github.com/meltano/meltano)** | [![GitHub_Stars](https://img.shields.io/github/stars/meltano/meltano?style=social&color=white)](https://github.com/meltano/meltano/stargazers) | Python | Apache-2.0 | CLI-driven ELT framework powered by the Singer tap & target connector ecosystem |
+| **[Singer](https://github.com/singer-io/getting-started)** | [![GitHub_Stars](https://img.shields.io/github/stars/singer-io/getting-started)](https://github.com/singer-io/getting-started/stargazers) | Python | Apache-2.0 | Open-source standard for composable ETL/ELT data extraction taps and targets |
 
 ---
 
@@ -146,55 +146,55 @@ Self-hosted, developer-friendly open-source connector frameworks and integration
 ## 🛠️ Detailed Open-Source Profiles
 
 ### 🤖 n8n
-* **GitHub:** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | **License:** Sustainable Use License / Fair-code
+* **GitHub:** [![GitHub_Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | **License:** Sustainable Use License / Fair-code
 * **Stack:** TypeScript, Node.js, Vue.js, Docker
 * **Overview:** An extremely popular fair-code workflow automation engine with 400+ built-in application connectors. Supports visual workflow modeling, custom JavaScript/Python execution nodes, native AI agent integration nodes, and on-premises hosting.
 * **Best For:** Self-hosters and developer teams needing low-friction, node-based automation between SaaS services and internal databases.
 
 ### 🧩 Activepieces
-* **GitHub:** [![GitHub stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers) | **License:** MIT
+* **GitHub:** [![GitHub_Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers) | **License:** MIT
 * **Stack:** TypeScript, Node.js, Angular, Docker
 * **Overview:** A modular, open-source Zapier/Workato alternative featuring 200+ pre-built connector "pieces". Completely community-extensible with an npm-published framework for writing custom enterprise pieces.
 * **Best For:** Organizations looking for a clean, modern MIT-licensed no-code automation platform with full white-label and embed capabilities.
 
 ### 🚚 Airbyte
-* **GitHub:** [![GitHub stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=social&color=white)](https://github.com/airbytehq/airbyte/stargazers) | **License:** MIT (Core connectors) / Elastic License 2.0
+* **GitHub:** [![GitHub_Stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=social&color=white)](https://github.com/airbytehq/airbyte/stargazers) | **License:** MIT (Core connectors) / Elastic License 2.0
 * **Stack:** Java, Python, React, Docker, Kubernetes
 * **Overview:** The de-facto open-source ELT data replication platform with 350+ out-of-the-box connectors for databases, SaaS endpoints, and warehouse targets. Features an intuitive Connector Development Kit (CDK) allowing developers to create connectors within hours.
 * **Best For:** Data engineering teams centralizing corporate operational data from enterprise applications into Snowflake, BigQuery, ClickHouse, or Postgres.
 
 ### 🔍 CloudQuery
-* **GitHub:** [![GitHub stars](https://img.shields.io/github/stars/cloudquery/cloudquery?style=social&color=white)](https://github.com/cloudquery/cloudquery/stargazers) | **License:** MPL-2.0
+* **GitHub:** [![GitHub_Stars](https://img.shields.io/github/stars/cloudquery/cloudquery?style=social&color=white)](https://github.com/cloudquery/cloudquery/stargazers) | **License:** MPL-2.0
 * **Stack:** Go, SQL, gRPC
 * **Overview:** A high-performance, open-source ELT framework that extracts APIs, cloud infrastructure, and enterprise SaaS configurations into standard SQL databases and data lakes for analytics, cybersecurity, and audit compliance.
 * **Best For:** DevOps, SecOps, and data engineers extracting deep state and configuration data from hundreds of cloud and SaaS services into queryable SQL.
 
 ### 🐫 Apache Camel
-* **GitHub:** [![GitHub stars](https://img.shields.io/github/stars/apache/camel?style=social&color=white)](https://github.com/apache/camel/stargazers) | **License:** Apache-2.0
+* **GitHub:** [![GitHub_Stars](https://img.shields.io/github/stars/apache/camel?style=social&color=white)](https://github.com/apache/camel/stargazers) | **License:** Apache-2.0
 * **Stack:** Java, YAML, XML, Quarkus, Spring Boot, Kubernetes
 * **Overview:** The gold standard in open-source enterprise integration, implementing standard Enterprise Integration Patterns (EIP). Offers over 350+ production-tested components connecting to SAP, Salesforce, Kafka, IBM MQ, JMS, and NetSuite.
 * **Best For:** Enterprise Java architects and engineering organizations building custom, mission-critical integration microservices.
 
 ### 📥 dlt (data load tool)
-* **GitHub:** [![GitHub stars](https://img.shields.io/github/stars/dlt-hub/dlt?style=social&color=white)](https://github.com/dlt-hub/dlt/stargazers) | **License:** Apache-2.0
+* **GitHub:** [![GitHub_Stars](https://img.shields.io/github/stars/dlt-hub/dlt?style=social&color=white)](https://github.com/dlt-hub/dlt/stargazers) | **License:** Apache-2.0
 * **Stack:** Python, DuckDB, Arrow
 * **Overview:** A lightweight, developer-first Python library that loads arbitrary JSON and REST API data structures into databases, data lakes, or vector stores with automatic schema inference and evolution.
 * **Best For:** Python engineers building bespoke data pipelines and connector scripts without running heavy external server infrastructure.
 
 ### 🩰 Ballerina
-* **GitHub:** [![GitHub stars](https://img.shields.io/github/stars/ballerina-platform/ballerina-lang?style=social&color=white)](https://github.com/ballerina-platform/ballerina-lang/stargazers) | **License:** Apache-2.0
+* **GitHub:** [![GitHub_Stars](https://img.shields.io/github/stars/ballerina-platform/ballerina-lang?style=social&color=white)](https://github.com/ballerina-platform/ballerina-lang/stargazers) | **License:** Apache-2.0
 * **Stack:** Ballerina, Java, LLVM
 * **Overview:** An open-source programming language developed by WSO2 specifically designed for cloud-native integration. Features sequence diagrams as core syntax and a comprehensive package ecosystem of enterprise connectors (Salesforce, SAP, AWS, Azure).
 * **Best For:** Teams wanting to write testable, maintainable, compiled integration microservices without the overhead of heavy XML or drag-and-drop UIs.
 
 ### 🛠️ Meltano
-* **GitHub:** [![GitHub stars](https://img.shields.io/github/stars/meltano/meltano?style=social&color=white)](https://github.com/meltano/meltano/stargazers) | **License:** Apache-2.0
+* **GitHub:** [![GitHub_Stars](https://img.shields.io/github/stars/meltano/meltano?style=social&color=white)](https://github.com/meltano/meltano/stargazers) | **License:** Apache-2.0
 * **Stack:** Python, Singer, dbt, Airflow
 * **Overview:** A declarative, CLI-driven ELT framework that bundles Singer taps and targets into version-controlled, GitOps-ready data pipelines integrated with dbt for transformation.
 * **Best For:** Data engineering teams committed to code-first, GitOps-driven data synchronization pipelines.
 
 ### 🎤 Singer
-* **GitHub:** [![GitHub stars](https://img.shields.io/github/stars/singer-io/getting-started)](https://github.com/singer-io/getting-started/stargazers) | **License:** Apache-2.0
+* **GitHub:** [![GitHub_Stars](https://img.shields.io/github/stars/singer-io/getting-started)](https://github.com/singer-io/getting-started/stargazers) | **License:** Apache-2.0
 * **Stack:** Python, JSON Schema
 * **Overview:** The open-source data extraction standard defining unix-style composable "taps" (data extractors) and "targets" (data loaders) that communicate over standard streams.
 * **Best For:** Developers desiring lightweight, modular UNIX-pipe CLI tools for replicating records between disparate APIs and databases.
